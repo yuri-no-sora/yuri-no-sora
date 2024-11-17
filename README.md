@@ -29,3 +29,6 @@ Lover of structured elegance, be it in code, knowledge, or life.
 Finding beauty in complexity, whether in algorithms or literature.
 Exploring cryptographic implementations with a focus on Python, C++ and Java.
 Delving into the philosophy of knowledge, security, and ambition.
+
+
+[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-no-sora&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/yuri-no-sora/github-readme-stats)
